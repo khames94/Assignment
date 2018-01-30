@@ -1,0 +1,41 @@
+==================================================================================================
+                 //When received the email// 
+==================================================================================================                    
+                                                                                                 Tuesday, January 23, 2018
+Dear MyCustomer,
+
+This is to confirm I have received this email.Thank you for taking the time to communicate 
+to us why our product did not meet your expectations.We have desire to address your needs 
+and provide the best solution available to resolve your issue as soon as possible.We will 
+be in contact with you in the coming days to make our best attempt in regaining your confidence.
+
+Best Regards
+
+Khamis Abd el Satar
+-------------------------
+ASSET Technology Group
+Address: 34A Al Moltaqa Al Araby Buildings, Autostrad Road, Sheraton, Cairo, Egypt.
+Phone: +201094840257
+
+
+===============================================================================================
+                       //after completing the requirment//
+===============================================================================================
+                                                                                              Tuesday, January 30, 2018 
+Dear MyCustomer,
+
+ Please accept our sincerest apology for any trouble or inconvenience that happen for you,Again.
+ We would like to confirm you that we have completed all your requirements as requested in an advanced way.
+ In addition, we will further evaluate how we can prevent this problem from occurring again in the future. 
+ Our highly appreciate your feedback as it will assist us in becoming better at what we do. 
+ As with any business like ours, the greatest advertising we can have is word of mouth from a satisfied customer. 
+ It’s our goal to retain you as a satisfied customer and will hope to serve you again in the future.  
+
+Thank & Best Regards,
+
+Khamis Abd el Satar
+ASSET Technology Group
+Address: 34A Al Moltaqa Al Araby Buildings, Autostrad Road, Sheraton, Cairo, Egypt.
+Phone: +201094840257
+
+  
